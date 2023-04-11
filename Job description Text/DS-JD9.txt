@@ -1,0 +1,30 @@
+Zurich is looking for an AVP, Data Scientist to join the Data and Analytics team at Zurich North America. We are looking for someone to work out of our office located in Schaumburg, IL.
+
+The AVP, Data Scientist works with a product team for end-to-end deliverables of data and analytics products and is responsible for using data and analytics to create business impact for the business units at Zurich North America.
+
+Data and Analytics at Zurich encompasses data science, analytics, reports, dashboards and data visualizations as well as the enhancement and creation of data.
+
+As the AVP, Data Scientist , you core responsibility is to work with a cross-functional product team to solve business challenges using data and analytics, to drive impact for the business units. In this role you will:
+Work closely with stakeholders to understand how data and analytics can help business partners to achieve their strategic priorities; fully own and support data & analytics roadmaps for business units that you support
+Determine how the Data and Analytics team will bring impact to business partners through a program of products as well as analytics to support the day-to-day business.
+Manage the Data and Analytics Program for business partners, which includes working with your team to:
+Collaborate with stakeholders to understand their challenges and structure a data and/or analytics solution to solve it
+Ensure the quality of the data and analytics solution being built, and that it’s fit for purpose
+Work with stakeholders to develop a strategy on how to use data and analytics to generate the desired impact
+Work with stakeholders after deployment to ensure that impact is achieved
+Manage prior Data and Analytics models deployed in business units to maximize impact.
+Lead the BU facing Data and Analytics product team, developing their analytic and business problem-solving skill sets.
+Perform hands-on work in developing analytics, data engineering/science solutions and technical capabilities
+
+Basic Qualifications:
+
+Bachelors Degree in Computer Science or Engineering or Mathematics/Statistics or Technology and 8 or more years of experience in the Predictive Analytics area AND
+Experience applying data transformation techniques such as exact and probabilistic matching methods; fuzzy matching, text mining, and data reduction
+Experience with programming and database mining tools such as Spark, Java, SQL, R, and Python
+
+Preferred Qualifications
+
+Strong verbal and written communication skills
+Experience in using data and analytics, including data science, to solve business challenges and drive business impact
+Knowledge of statistical and predictive modeling techniques, such as machine learning, decision trees, probability networks, association rules, clustering, regression, and neural networks and their application to business decisions
+Experience in product and stakeholder management in agile working model

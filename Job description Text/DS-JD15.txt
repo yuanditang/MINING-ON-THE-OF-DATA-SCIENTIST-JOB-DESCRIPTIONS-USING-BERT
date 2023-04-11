@@ -1,0 +1,38 @@
+About the Position
+
+We are looking for a creative and endlessly inquisitive Data Scientist to join our team. You are flexible and eager to contribute to a highly collaborative team. You will be working hand-in-hand with the Partnerships team and all of our Data Scientists to develop highly optimized predictive models from a large volume of regularly updated data and to design experiments to test the effectiveness of various campaign tactics. In addition, you will be a key resource for building out custom analytics to help analyze our partners’ work in the political organizing and advocacy spheres. You will be working in a small but dedicated, detail-oriented team that is committed to our mission. The Murmuration work environment is friendly, impact-driven, and highly collaborative.
+
+
+Note: At Murmuration, we are committed to becoming an even more diverse, equitable, and inclusive workplace. To this end, all staff members are expected to sit on and actively participate in DEI (diversity, equity, inclusion) subcommittees. These subcommittees work to ensure that DEI is embedded in everything we do.
+
+
+Key Responsibilities
+
+Provide analytic insights and deliver data science products for our partners throughout the lifecycle of their campaign(s) by building and recommending custom models, providing analysis of campaign work, and producing post-campaign analytics to help our partners constantly learn from their efforts;
+Identify gaps in internal and external products that Data Science can help to build, and work cross-functionally to design, contribute, and/or lead the build of these products;
+Create predictive models using the latest machine learning algorithms on relatively “big” data;
+Explore data sets for insights that can help drive product improvements and feature prioritization;
+Contribute to the expansion and refinement of Murmuration proprietary codebase;
+Design and implement large-scale randomized controlled trials to gauge the general effectiveness of advocacy and campaign efforts;
+Learn to work collaboratively in a technical environment with the goal of building tools that are constantly evolving based on our needs; and
+Work closely with our partnerships team to identify and develop practical ways to apply our leading analytics to our partners’ problems.
+
+
+Who You Are
+
+The ideal candidate will have:
+
+An educational background and/or experience in political science, computer science, economics, mathematics, statistics or other related field (preferred);
+3-4 years of work experience as a Data Scientist or data analyst, or a Master’s degree, or equivalent, in Data Science;
+Strong basic data science skills (data cleaning, munging, data analysis, and data visualization);
+Experience with scripting and general purpose programming languages (SQL, Python, or R);
+Experience data mining large datasets (familiarity with voterfile or Census data is a plus);
+Experience building and deploying machine learning models;
+Strong understanding of basic statistical techniques and how to apply them to a variety of real-world datasets;
+Strong problem-solving skills as well as the ability to effectively communicate findings and recommendations to non-technical audiences; and
+Interest in politics and/or educational policy.
+
+
+Location, Compensation and Benefits
+
+The Data Scientist is a full-time, salaried position with a comprehensive benefits package. It is based anywhere in the U.S. with location preferred in New York City. The salary range for this position is $120,000 - $140,000 but is commensurate with experience.

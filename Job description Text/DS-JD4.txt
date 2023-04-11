@@ -1,0 +1,32 @@
+What you’ll be part of:
+
+With the mission “To raise global economic prosperity through the frictionless exchange of value,” Circle was founded on the belief that the internet, blockchains and digital currency will rewire the global economic system, creating a fundamentally more open, inclusive, efficient and integrated world economy. We envision a global economy where people and businesses everywhere can more freely connect and transact with each other with new technologies for digital money and internet-native finance. We believe such a system can raise prosperity for people and companies everywhere. Our mission is powered by the values we espouse and which we expect all Circlers to respect. We are Multistakeholder, serving the needs of our customers, our shareholders, our employees and families, our local communities and our world. Furthermore, we are also Mindful, Driven by Excellence, and High Integrity.
+
+What you’ll be responsible for:
+
+As a Data Scientist, Analytics at Circle, you’ll work closely with product stakeholders and engineers to better understand our products and enable better decision making with data. Your job will include making sure teams are focused on the biggest opportunities, defining success metrics and goals, and communicating insights throughout the company. We are a passionate team with a deeply analytical mindset, and your work will support us in our mission to be a world-class company driven by data.
+
+What you'll work on:
+Own a domain end-to-end, understand the business problems, define and monitor key metrics, identify opportunities and drive conversations around where to invest engineering resources
+Measure business performance, develop core metrics and create dashboards to track and understand them.
+Identify data, metrics and analyses needs for business partners; Initiate, develop and maintain data pipelines and data models that powers dashboards and data products with outstanding craftsmanship.
+Perform deep analyses and build models to understand customer behavior, and extract key insights that impact product decisions.
+Perform analyses and build models to understand customer behavior, extracting key insights and communicating to stakeholders to impact product decisions
+Communicate the state of business, experiments results and recommendations to a broad team and senior leadership
+Data collection and analysis of blockchain activity to understand trading activity, incentives, and how USDC fits in to the broader crypto ecosystem
+
+What you'll bring to Circle:
+3+ years of industry experience working with and analyzing large data sets
+Experience in data analyses using SQL and at least one programming language (e.g. R, Python)
+Understanding of statistics and experience applying them to business problems
+Experience planning and executing analytical projects
+Be able to proactively manage prioritization of work and deliver work with great quality and influence the broader team in creating leverage.
+Previous experience working with financial services data or crypto is a plus.
+Experience with Looker, Tableau or other business intelligence platforms.
+Domain experience in product, marketing, growth, or other business analytics, compliance, risk areas.
+Experience manipulating large amounts of structured and unstructured data.
+
+Additional Information:
+This position is eligible for day-one PERM sponsorship for qualified candidates.
+
+We are an equal opportunity employer and value diversity at Circle. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

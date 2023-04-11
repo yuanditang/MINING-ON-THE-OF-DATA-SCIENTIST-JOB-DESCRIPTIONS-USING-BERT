@@ -1,0 +1,63 @@
+Internal Title
+
+Data Scientist
+
+Position Type
+
+Classified
+
+Faculty / Non-Faculty / Administration
+
+Non-Faculty
+
+Pay Band
+
+6
+
+Level
+
+1
+
+Department
+
+Office of Enrollment Information
+
+Job Purpose
+
+The Data Scientist leads and supports projects related to data integration and database management to support undergraduate recruitment. Primary job duties involve developing and implementing protocols for receiving, cleaning, re-structuring, validating, and loading various data files for integration to customer relationship management systems. Typical files include standardized test score reports, student search queries, recruitment event leads, and various data files to support multiple enrollment management partners. The Data Scientist will leverage data interchange and business intelligence software solutions to enable efficient and accurate data transfers and integrations. Other job duties include monitoring error reports, duplicate records management, and developing approaches for improving overall system data integrity. This position is collaborative with colleagues in the Division of University Marketing and Enrollment Planning and other divisions and offices across campus including Information Technology.
+
+Minimum Requirements
+
+Certificate or associate degree in data science, computer science, information systems, mathematics or related field from an accredited institution. Bachelor’s degree in relevant field and at least one year of relevant work experience preferred. Candidates with an equivalent combination of experience and/or education are encouraged to apply.
+
+Required Knowledge, Skills And Abilities
+
+Excellent organizational and analytical skills, superior attention to detail, and ability to exercise good judgement when making decisions about data handling
+Ability to be proactive in a fast-paced environment and effectively prioritize competing requests and tasks
+Ability and desire to improve data protocol efficiencies, automation, and accuracy
+Clear and effective communication style when collaborating with team members and colleagues across campus
+Self-motivated to work toward continuous improvement in all aspects of the job
+Demonstrated Excel proficiency required
+Experience with DemandTools, Informatica, Salesforce Data Loader, Workbench or other EDI or Business Intelligence software
+Experience with Salesforce or other CRM technology, preferably in a higher education setting
+Demonstrated technical knowledge including database concepts, web/cloud applications, ETL, API, programming (e.g., SQL)
+Software or technology certifications or badges favored (Salesforce, Validity, Intellipaat, etc.)
+Additional Comments Regarding Position:
+
+This position is eligible for remote or flexible work options after an introductory period pending a successful performance review. May be required to work evenings/weekends during peak times.
+
+Special Instructions To Applicants
+
+Resume, college transcripts, and reference list required with application submission. Cover letter strongly encouraged.
+
+Please complete the application to include all current and previous work history and education. A resume will not be accepted nor reviewed to determine if an applicant has met the qualifications for the position.
+
+Salary is commensurate with education/experience which exceeds the minimum requirements.
+
+Offers of employment are contingent upon a successful background check.
+
+All applications must be submitted online https://jobs.cofc.edu.
+
+Salary
+
+$43,030 - $61,323

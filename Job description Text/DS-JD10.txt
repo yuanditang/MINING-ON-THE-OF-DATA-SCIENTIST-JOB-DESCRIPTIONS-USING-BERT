@@ -1,0 +1,52 @@
+The physical employment location will be in McLean, VA for this role*
+
+Are you passionate about the chance to bring your data quality improvement experience to a world class organization that is leading the way in both content and technology to serve and protect our citizens home and abroad? Do you have the skills necessary to manage, understand, and analyze in-house and customer data including text mining, developing predictive systems, risk scoring, creating efficient algorithms, data quality improvement and other related activities? Then Thomson Reuters Special Services (TRSS) is looking for you!
+
+What You’ll Do: As a Data Scientist, you will be responsible for driving, identify, evaluate, design and implement statistical analyses of gathered open source, proprietary, and customer data to create analytic metrics and tools to support TRSS analysts, customers and existing product offerings. Successful candidates will have the opportunity to contribute directly to the features and capabilities deployed in our applications. They will work with customers to assist in gathering requirements and contributing to Statements of Work (SOWs) for new sales or POCs, and executing design post sale while getting deeply involved into the delivery of the proposed solutions. The role will interface with the customer and provide continuity of technical and data-exploration expertise to ensure we are delivering a workable solution that meets the customer requirements and technical capabilities. The position requires a proactive, mission-oriented person who strives to produce the best possible work for the customer.
+
+As the Data Scientist, you will also contribute to a variety of areas including:
+
+Working with interdisciplinary engineering and research teams on designing, building and deploying data analysis systems for large data sets.
+Working closely with customers to apply data science to their mission specific content.
+Creating algorithms to extract information from large data sets.
+Establishment of scalable, efficient, automated processes for model development, model validation, model implementation, and large-scale data analysis.
+Development of metrics and prototypes that can be used to drive business decisions.
+Providing thought-leadership and dependable execution on diverse projects.
+Identification of emergent trends and opportunities for future client growth and development.
+Researching and identifying Artificial Intelligence (AI) methods – including Machine Learning (ML) and Natural Language Processing (NLP) methods.
+Identification of new applications of AI in the context of Thomson Reuters and TRSS content sets.
+Exploring existing data for insights, and recommends additional sources of data for improvement.
+
+About You:
+
+You’re a good fit for the role of Data Scientist if you have:
+
+A minimum of DHS-granted public trust suitability required, active DOD Secret or Top-Secret clearance preferred.
+A Master's degree or PhD in a quantitative field (e.g., statistics, computer science, mathematics, physical/biological sciences, or GIS).
+10 years of experience with data cleaning, analysis, programming, and reporting of results to internal or external stakeholders (education can substitute for some years of experience)
+Programming skills in one or more major programming languages (Python/R/Java).
+Are creative, intellectually curious, and willing to experiment and work in dynamic organizations and situations, sometimes with little oversight or well-defined requirements.
+The ability to take ownership for defined areas of accountability, most critically the integrity of the technical and data design in terms of meeting customer needs, design delivery and supportability.
+A good understanding of distributed computing concepts.
+Experience facilitating and gathering input from subject matter experts.
+Excellent understanding of ML, NLP, and statistical methodologies.
+The ability to test ideas and adapt methods quickly end to end from data extraction to implementation and validation.
+Strong planning, time management, and organizational skills.
+A team player / self-starter mentality with the ability to work using own initiative.
+Ability to obtain and maintain a U.S. national security clearance.
+
+Additional Desired Skills:
+
+Big Data analytics experience (preferred, but not required).
+Previous experience with data modeling for graphs (preferred, but not required).
+Experience with search engines, classification algorithms, recommendation systems, and relevance evaluation methodologies (preferred, but not required).
+
+What’s in it For You?
+
+At Thomson Reuters Special Services, our people are our greatest assets. Here are some of the benefits we offer for your personal and professional growth:
+
+Our Culture: Globally recognized and award-winning reputation for equality, diversity and inclusion, flexibility, work-life balance, and more
+Wellbeing: Comprehensive benefit plans; company-wide Mental Health Day Off; Headspace app subscription; retirement, savings, tuition reimbursement, and employee incentive programs; resources for mental, physical, and financial wellbeing
+Learning & Development: Environment that encourages continuous learning and development
+Social Impact: Six employee-driven Employee Resource Groups; two paid volunteer days annually; Environmental, Social and Governance (ESG) initiatives for local and global impact
+Compensation: Competitive salary and bonus component with market-leading benefits

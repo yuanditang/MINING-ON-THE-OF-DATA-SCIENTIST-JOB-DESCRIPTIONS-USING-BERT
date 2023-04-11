@@ -1,0 +1,28 @@
+Data Science @ Pave
+
+At Pave, we believe that data is the path to fair compensation on a global scale. Thousands of companies trust our market data to make compensation decisions that impact the livelihood of employees across the globe. Our Data Science team drives the accuracy, rigor, and insights that fuel our mission to build the world's best compensation tools and easily accessible market data so companies can plan, communicate, and benchmark in real-time.
+
+Where you will focus:
+
+Building machine learning models that improve the quality of compensation benchmarks used by thousands of companies
+Conducting statistical analysis to answer questions about our data and inform the product roadmap
+Distilling insights from our data to drive decision making
+Working cross functionally with product leadership to build a culture of data driven decision making
+Helping to define processes, platforms, and tools that will scale with Pave's exponential growth.
+
+About You
+
+Have a Bachelors or other advanced degree in a quantitative discipline: statistics, operations research, computer science, engineering, mathematics, economics, etc.
+4+ years of experience in a Data Science role.
+Experience developing machine learning models at scale
+Exceptional data manipulation skills with a proficiency in SQL.
+Proficiency in statistical modeling with Python.
+Strong analytical problem solving skills. The ability to translate qualitative business questions into quantitative solutions.
+Strong ability to communicate technical outcomes to audiences of differing technical abilities.
+Data Engineering experience is a strong plus as well as comfort with software development systems and approaches
+An ability to adapt your solutions to business problems and drive customer impact
+A deep understanding of modern machine learning techniques and their application.
+
+Salary Range
+
+Pave’s salary range for this position is $166,000 - $215,000 USD per year. This salary range may include multiple levels. Your level is based on our assessment of your interview performance and experience, which you can always ask the hiring manager about to understand in more detail. Salary is just one component of Pave's total compensation package for employees. Your total rewards package at Pave will include equity, top-notch medical, dental and vision coverage, commuter benefits, catered lunch, an unlimited PTO policy, and many other region-specific benefits.

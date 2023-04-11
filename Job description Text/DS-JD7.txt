@@ -1,0 +1,39 @@
+What will you be doing:
+
+As part of the Data Science team, you will have responsibility for conceptualizing, designing, implementing and deploying new machine learning algorithms into production daily. You will be a member of a multidisciplinary team of data scientists, engineers, and clinicians tackling complex problems in a data-driven and collaborative way. As a fully remote team, we value self-driven, result-oriented individuals mindful of tradeoffs between near-term needs and long-term strategic goals.
+
+What we're looking for:
+
+Required Qualifications
+
+Work Experience:
+
+Years of Applicable Experience - 2 or more years
+
+Skills & Experience:
+
+Airflow, Applied Machine Learning, Cross Functional Projects, Python, Software Development
+
+Education:
+
+Bachelors
+
+In order to comply with applicable legal obligations, Premier requires employees to provide proof of full vaccination against COVID-19. We will consider requests for disability or religious accommodations during the recruiting process as needed. Premier will also observe state laws related to vaccination, as applicable.
+
+Preferred Qualifications
+
+Two or more years in applied machine learning in fields such as Natural language processing (NLP) or Computer Vision (CV)
+Strong preference in Python, model development frameworks such as PyTorch or Tensorflow
+Experience with manipulating and analyzing large-scale datasets
+Experience working in cross-functional teams
+Software Development using source control and versioning
+
+Premier’s compensation philosophy is to ensure that compensation is reasonable, equitable, and competitive in order to attract and retain talented and highly skilled employees. Premier’s internal salary range for this role is $64,000 - $118,000. Final salary is dependent upon several market factors including, but not limited to, departmental budgets, internal equity, education, unique skills/experience, and geographic location. Premier utilizes a wide-range salary structure to allow base salary flexibility within our ranges.
+
+Employees also receive access to the following benefits:
+
+Health, dental, vision, life and disability insurance
+401k retirement program
+Paid time off
+Participation in Premier’s employee incentive plans
+Tuition reimbursement and professional development opportunities

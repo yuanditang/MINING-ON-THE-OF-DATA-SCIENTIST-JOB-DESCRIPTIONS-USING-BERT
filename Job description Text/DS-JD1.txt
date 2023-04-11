@@ -1,0 +1,32 @@
+Responsibilities
+
+Data science at PNNL addresses critical national and global issues by applying scientific, mathematical, and engineering techniques to mission-focused data and challenges. This position requires thought leadership and technical depth to support the development and advancement of natural language processing research and capabilities. This role leads specific tasks of the project to meet scope, schedule and budget. This individual is expected to contribute professionally, building a professional reputation for technical expertise. A successful staff member will be fully applying and interpreting standard theories, principles, methods, tools and technologies. You will be contributing technical content to proposals and develops business through excellent project performance.
+Designs, develops, and implements methods, processes, and systems to analyze diverse data.
+This position requires interactions with government, military, and industry officials nationwide for a variety of programs, projects, and tasks, including technical and programmatic concept development, planning, coordination, integration, and execution that can be supported by data science and deep learning techniques.
+Minimum Qualifications
+
+Qualifications
+BS/BA and 2 years of relevant experience -OR-
+MS/MA -OR-
+PhD
+Preferred Qualifications
+Experience training machine learning models in frameworks like PyTorch
+Experience applying machine learning and artificial intelligence to natural language specific applications. Additional domain application experience is preferred - geospatial intelligence, computer vision, few-shot learning, adversarial machine learning, social computing, etc.
+Demonstrated ability to contribute that knowledge to the academic and research strength of PNNL and have experience writing scientific publications demonstrating their insight and discovery (e.g., publication in conferences such as ACL, ICWSM, EMNLP, NAACL, EACL, and COLING)
+Hazardous Working Conditions/Environment
+
+Not applicable.
+
+Additional Information
+
+This position requires the ability to obtain and maintain a federal security clearance.
+
+Requirements
+U.S. Citizenship
+Background Investigation: Applicants selected will be subject to a Federal background investigation and must meet eligibility requirements for access to classified matter in accordance with 10 CFR 710, Appendix B.
+Drug Testing: All Security Clearance positions are Testing Designated Positions, which means that the candidate selected is subject to pre-employment and random drug testing. In addition, applicants must be able to demonstrate non-use of illegal drugs, including marijuana, for the 12 consecutive months preceding completion of the requisite Questionnaire for National Security Positions (QNSP).
+Note: Applicants will be considered ineligible for security clearance processing by the U.S. Department of Energy until non-use of illegal drugs, including marijuana, for 12 months can be demonstrated.
+
+Testing Designated Position
+
+This position is a Testing Designated Position (TDP). The candidate selected for this position will be subject to pre-employment and random drug testing for illegal drugs, including marijuana, consistent with the Controlled Substances Act and the PNNL Workplace Substance Abuse Program.

@@ -1,0 +1,58 @@
+Description
+
+
+Data Scientist
+
+
+This position is not eligible for sponsorship
+
+
+Reports to Director, Business Analytics
+
+
+Location Hybrid work schedule - HomeIn-Office at Fort Mill, SC Corporate Office
+
+
+Job Description
+
+
+The Data Scientist provides support in making strategic, data related decisions by analyzing, managing, manipulating and reporting data. This role will use their coding proficiency to gain insights from various sources of data, regardless of size or format. This role works to help bridge the gap between the technical aspect of data and business strategy. The Data Scientist will use their understanding of leading data analysis tools and databases to provide a wide variety of data analysis and visualizations. The Data Scientist will review requirements and create tools that will support decision making at all levels of the organization.
+
+
+Job ResponsibilitiesAccountabilities
+
+
+Draw on qualitative and quantitative techniques to analyze and interpret data and add insights. Utilize technical expertise to collect and organize data received from internal and external data sources.
+Ability to transform data sets into actionable insights by using computer science, modeling, statistics, analytics and math skills.
+Develop key reports and data visualizations for various levels of the organization.
+Collect, clean and prepare data for analysis, use coding skills to perform exploratory to advanced predictive andor modeling analytics, and identify data relationships (patterns and trends).
+Assist in managing the flow of data from source system to output and develop strategies for quality data collection, process improvement and automation.
+Support projects across the organization with accurate and relevant data and analytical methods.
+Serve as main point of contact for leaders in identifying problems and opportunities, as well as provide key insights provide key insights by synthesizing data and drawing valid conclusions.
+
+Key Skills
+
+
+Proficiency in coding with knowledge of programs such as Python, SQL and R.
+Strong analytical skills with the ability to collect, analyze, and disseminate significant amounts of information with attention to detail and accuracy
+Project management skills including ability to coordinate with multiple stakeholders
+Technical knowledge of advanced data collection tools and methods including statistical modeling, algorithms, machine learning and AI.
+Ability to clearly communicate, both verbally and written, complex data analysis in business terms
+Strong Visualization skills
+Innovative thinking and intellectual curiosity
+
+Professional ExperienceQualifications
+
+
+Bachelor’s Degree in Data Analytics, Statistics, Computer Science or similar field required. Advanced degree preferred.
+3 years’ experience in a data analytics or similar data scientist role. Manufacturing industry or sales organization experience is preferred.
+Experience working with advanced analytics tools, and software such as Tableau, Power BI and Python as well as data languages and programming
+Experience with Business Warehouse.
+Demonstrated competency in spreadsheet design, analysis, and reporting with demonstrated command of advanced functions and formulas
+Knowledge of applied statistics
+
+
+Domtar is an equal opportunity employer. Qualified applicants will be considered without regard to age, race, creed, color, national origin, ancestry, marital status, affectional or sexual orientation, gender identity or expression, disability, nationality, sex, or veteran status.
+
+
+Domtar is an equal opportunity employer. Qualified applicants will be considered without regard to age, race, color, sex (including gender identity or expression, sexual orientation, and pregnancy), marital status, religion, national origin, genetic information, disability, or veteran status.

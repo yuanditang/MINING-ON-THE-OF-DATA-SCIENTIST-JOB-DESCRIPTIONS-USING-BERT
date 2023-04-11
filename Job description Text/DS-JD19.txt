@@ -1,0 +1,42 @@
+At PayPal (NASDAQ: PYPL), we believe that every person has the right to participate fully in the global economy. Our mission is to democratize financial services to ensure that everyone, regardless of background or economic standing, has access to affordable, convenient, and secure products and services to take control of their financial lives.
+
+Job Description Summary:
+
+A successful Data Scientist will build upon the products and provide subject matter expertise to ensure that they can not only design, implement and deploy a successful fraud solution, including machine learning models and data analysis, as well as be able to explain and design the solution together with the client's business team, leading to happy customers.
+
+Job Description:
+
+PayPal’s Risk as a Service Data Scientists are comprehensive analytical experts who collaborate with a team of technical and business industry experts, to ensure that their customers are successful in their deployments in catching fraud and malicious activities. They continually improve and apply their technical knowledge and analytical skills across the product suite at every level of the customer
+
+Primary Responsibilities:
+
+Work closely with multiple national and international customers to consult and strategize on the approach to tackling fraud and ensure that RaaS is solving their fraud problem
+Be a strong subject matter expert on PayPal’s RaaS platforms and develop risk solutions in specific fields (banking, finance, eCommerce, etc.).
+Understand the main customer issues around fraud and compliance.
+Understand the nature of the data that is provided and work with the customer to create and finalize a data schema that meets their current and future needs.
+Perform in-depth analysis of data sets to detect anomalies and to understand the key parameters that may be indicative of fraud.
+Analyze and transform data using RaaS platforms to identify fraud patterns and optimize the systems to flag these patterns.
+Work with a dedicated international data science and engineering team, using a state-of-the-art technology stack, to design and implement data-driven solutions that operate at scale and in real time.
+Make business recommendations to the executive and cross-functional teams with effective presentations of findings at multiple levels of stakeholders.
+Lead and participate in special initiatives: innovate and implement large-scale quality improvements to processes and/or systems by conducting data analysis, making recommendations, troubleshooting technical issues, and refining processes.
+Communicate insights and findings back to the team to contribute to the overall team’s success.
+Train the customer on how to understand fraud trends and the use of PayPal RaaS’s product.
+Improve the products with innovative ideas driven by customer feedback; work with the product development team to incorporate the feedback into the platforms.
+
+
+Qualifications and Experience:
+
+Bachelor’s Degree in Computer Science, Engineering, Mathematics, Statistics, Data Mining or related field or equivalent practical experience
+A minimum of 4 years of experience in advanced Data Analysis, Research, Risk and Fraud Investigation, or Internet Industry
+Experience with Python, SQL, R, or JavaScript
+
+
+Preferred Experience:
+
+MS/Ph.D. Degree in Computer Science, Engineering, Mathematics, Statistics, Data Mining, or related field or equivalent practical experience
+Experience in one of the following areas: eCommerce, online payments, user trust/risk/fraud investigation/product abuse
+Project Management experience and attention to detail with the ability to get things done.
+Strong process improvement, prioritization, and multi-tasking capabilities
+Demonstrated analytical thinking through data-driven decisions, as well as the technical know-how, charisma, and ability to work with your team to make a big impact
+Knowledge of database structures and/or working with Unix/Linux
+Outstanding leadership, influencing, communication, interpersonal, and teamwork skills

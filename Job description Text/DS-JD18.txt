@@ -1,0 +1,23 @@
+WHO ARE YOU?
+
+The Data & Analytics team is intellectually curious and results-oriented, driven to implement analytical solutions to solve real-world business problems. We are seeking a Data Scientist to lay the foundation for advanced analytics and machine learning products. You are a critical thinker who can demonstrate their expertise through end-to-end data-based applications. You have passion for working with proprietary and unique datasets (in the music industry) and have a working understanding of the advertising and marketing technology ecosystem.
+
+THE JOB
+
+You will develop a framework of statistical modeling and machine learning techniques to support new sponsorship product offerings and enhance existing campaigns with strategic guidance supported by underlying trends in the data. You will also focus on developing, training, deploying and evaluating production-ready models to answer complex business questions. Knowledge of data warehousing environments (Databricks and Redshift, and the associated SQL tools) and demonstrated applications of statistical and data programming languages such as Python/R is required. AWS infrastructure supports all current Data & Analytics initiatives and familiarity is preferred for this role.
+
+What This Role Will Do
+Implements machine learning techniques to highlight program trends and identify new potential sponsorship opportunities using statistical programming languages and tools such as R or Python
+Delivers statistical model output in formats which are interpretable and actionable in a business context such as dashboards, markdown notebooks, or presentations
+Gathers requirements and business hypotheses from colleagues across teams, and advises on best practices around data products created to address each use case
+Improves applications based technical and business feedback through monitoring against success metrics
+Ensures adherence to technical, quality assurance, data integrity, and data security standards
+
+What This Person Will Bring
+Bachelor’s degree with a focus in Mathematics, Computer Science, Data Science or similar with 2-3 years of Machine Learning programming and application, or equivalent combination of education and experience is required
+Strong command of data analysis, mining, and modeling using R/Python alongside SQL
+Experience working in AWS infrastructure and associated libraries to extract and transform assets therein
+A quick learner, with the ability to iterate and adapt to the needs of the business in an agile fashion
+Strong organizational, prioritization and communication skills
+
+Applicants for employment in the U.S. must possess work authorization which does not require sponsorship by the employer for a visa.

@@ -1,0 +1,40 @@
+Job Description
+
+Develops, validates and executes algorithms and predictive models to investigate problems, detect patterns and recommend solutions
+Explores, examines and interprets large volumes of data in various forms
+Performs analyses of structured and unstructured data to solve moderately complex business problems
+Utilizing advanced statistical techniques and mathematical analyses
+Develops data structures and pipelines to organize, collect and standardize data that helps generate insights and addresses reporting needs
+Uses data visualization techniques to effectively communicate analytical results and support business decisions
+Creates and evaluates the data needs of assigned projects and assures the integrity of the data
+Explores existing data and recommends additional sources of data for improvements
+Documents projects including business objectives, data gathering and processing, detailed set of results and analytical metrics
+
+Pay Range
+
+The typical pay range for this role is:
+
+Minimum: $ 60,000
+
+Maximum: $ 128,700
+
+Please keep in mind that this range represents the pay range for all positions in the job grade within which this position falls. The actual salary offer will take into account a wide range of factors, including location.
+
+Required Qualifications
+
+1+ years of Data Science experience
+1+ Years of experience in Python and SQL
+
+Preferred Qualifications
+
+Prefers experience with Cloud Technology
+Demonstrates good written and verbal communication skills. Able to present information to various audiences
+Effectively resolves problems and roadblocks as they occur
+Demonstrates proficiency in several areas of data modeling, machine learning algorithms, statistical analysis, data engineering and data visualization
+Ability to work with large data sets from multiple data sources
+
+Education
+
+Bachelor's degree or equivalent work experience in Mathematics, Statistics, Computer Science, Business Analytics, Economics, Physics, Engineering, or related discipline.
+
+Master's degree preferred
