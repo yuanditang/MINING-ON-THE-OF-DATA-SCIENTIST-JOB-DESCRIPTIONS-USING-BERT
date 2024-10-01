@@ -11,8 +11,7 @@ This repository contains a project that leverages BERT (Bidirectional Encoder Re
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Overview
 
 With the increasing demand for data scientists, understanding the skills and qualifications sought by employers is crucial for aspiring professionals. This project utilizes BERT for natural language processing tasks to analyze job descriptions and extract key features and trends that define the data scientist role.
@@ -85,7 +84,3 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 3. Commit your changes (`git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
